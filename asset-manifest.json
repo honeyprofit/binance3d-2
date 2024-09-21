@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/binance3d-2/static/css/main.3267f941.css",
+    "main.js": "/binance3d-2/static/js/main.3881969b.js",
+    "static/js/208.e3123e7e.chunk.js": "/binance3d-2/static/js/208.e3123e7e.chunk.js",
+    "static/js/293.c3af1f9a.chunk.js": "/binance3d-2/static/js/293.c3af1f9a.chunk.js",
+    "static/js/917.edde5b5a.chunk.js": "/binance3d-2/static/js/917.edde5b5a.chunk.js",
+    "static/js/516.3fd4f733.chunk.js": "/binance3d-2/static/js/516.3fd4f733.chunk.js",
+    "static/js/519.5f1ed845.chunk.js": "/binance3d-2/static/js/519.5f1ed845.chunk.js",
+    "static/js/946.65130e01.chunk.js": "/binance3d-2/static/js/946.65130e01.chunk.js",
+    "static/js/160.0652b45f.chunk.js": "/binance3d-2/static/js/160.0652b45f.chunk.js",
+    "static/js/23.755e6060.chunk.js": "/binance3d-2/static/js/23.755e6060.chunk.js",
+    "static/media/logo_binance_full.svg": "/binance3d-2/static/media/logo_binance_full.4abbcce5887ccc830b0c391e5274bf82.svg",
+    "index.html": "/binance3d-2/index.html",
+    "static/media/arrow_right.svg": "/binance3d-2/static/media/arrow_right.106fffa7044c4752937c446d92f39203.svg",
+    "main.3267f941.css.map": "/binance3d-2/static/css/main.3267f941.css.map",
+    "main.3881969b.js.map": "/binance3d-2/static/js/main.3881969b.js.map",
+    "208.e3123e7e.chunk.js.map": "/binance3d-2/static/js/208.e3123e7e.chunk.js.map",
+    "293.c3af1f9a.chunk.js.map": "/binance3d-2/static/js/293.c3af1f9a.chunk.js.map",
+    "917.edde5b5a.chunk.js.map": "/binance3d-2/static/js/917.edde5b5a.chunk.js.map",
+    "516.3fd4f733.chunk.js.map": "/binance3d-2/static/js/516.3fd4f733.chunk.js.map",
+    "519.5f1ed845.chunk.js.map": "/binance3d-2/static/js/519.5f1ed845.chunk.js.map",
+    "946.65130e01.chunk.js.map": "/binance3d-2/static/js/946.65130e01.chunk.js.map",
+    "160.0652b45f.chunk.js.map": "/binance3d-2/static/js/160.0652b45f.chunk.js.map",
+    "23.755e6060.chunk.js.map": "/binance3d-2/static/js/23.755e6060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3267f941.css",
+    "static/js/main.3881969b.js"
+  ]
+}
